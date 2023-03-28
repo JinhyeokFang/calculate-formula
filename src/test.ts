@@ -1,4 +1,4 @@
-import { calc } from "./calc";
+import { calc } from './calc';
 
 describe('Hello World!', () => {
   it('Hello World!', () => {
