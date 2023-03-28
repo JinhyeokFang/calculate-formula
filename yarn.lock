@@ -1099,6 +1099,11 @@ acorn@^8.4.1, acorn@^8.8.0:
   resolved "https://registry.yarnpkg.com/acorn/-/acorn-8.8.2.tgz#1b2f25db02af965399b9776b0c2c391276d37c4a"
   integrity sha512-xjIYgE8HBrkpd/sJqOGNspf8uHG+NOHGOw6a/Urj8taM2EXfdNAH2oFcPeIFfsv3+kz/mJrS5VuMqbNLjCa2vw==
 
+advanced-calculator@^1.1.0:
+  version "1.1.0"
+  resolved "https://registry.yarnpkg.com/advanced-calculator/-/advanced-calculator-1.1.0.tgz#506aed1df963bf7e40283e51180524909136b5b0"
+  integrity sha512-70KWtmGs0i2y+qCZB7VdqLSHhpwDn7iWcS2BmN+qOOq4SpBaW64/9GDZRNul0uh4RXa/sR9Ya/k/KNVA0K9Www==
+
 ajv@^6.10.0, ajv@^6.12.4:
   version "6.12.6"
   resolved "https://registry.yarnpkg.com/ajv/-/ajv-6.12.6.tgz#baf5a62e802b07d977034586f8c3baf5adf26df4"
